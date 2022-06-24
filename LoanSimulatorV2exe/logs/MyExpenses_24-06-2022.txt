@@ -1,0 +1,28 @@
+
+=============================== FILE INFO ==============================
+
+File Name : MyExpenses_24-06-2022.txt
+Created By : Nick
+Created On : vendredi, 24 juin 2022 15:46:58
+
+============================== VIEW LOANS ==============================
+
+Currently 7 loan(s) in the Register
+
+@ 8% Interest: 
+
+ID: 0 - Principal: $12000 - Years: 7 - Month Pay: $187,03 - Debt Owed: $15710,52
+ID: 1 - Principal: $20000 - Years: 8 - Month Pay: $282,73 - Debt Owed: $27142,08
+ID: 2 - Principal: $9000 - Years: 5 - Month Pay: $182,49 - Debt Owed: $10949,4
+ID: 3 - Principal: $70500 - Years: 9 - Month Pay: $917,82 - Debt Owed: $99124,56
+ID: 4 - Principal: $30000 - Years: 5 - Month Pay: $608,29 - Debt Owed: $36497,4
+ID: 5 - Principal: $89500 - Years: 14 - Month Pay: $887,23 - Debt Owed: $149054,64
+ID: 6 - Principal: $4000 - Years: 4 - Month Pay: $97,65 - Debt Owed: $4687,2
+
+Availale Capital: $235000
+Sum of Montly Payments: $3163,24
+Years until Completely Debt Free: 14
+Total Debt Owed: $343165,8
+
+wed: $299740,68
+

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00Data\\CBD-bdeb\\Cours\\2\\App Interfacées à une base de données\\VS\\LoanSimulatorV2\\LoanSimulatorV2.csproj",
+      "projectUniqueName": "E:\\00Data\\Projects\\PublicGit\\LoanSimulator\\LoanSimulatorV2VScode\\LoanSimulatorV2.csproj",
       "projectName": "LoanSimulatorV2",
-      "projectPath": "E:\\00Data\\CBD-bdeb\\Cours\\2\\App Interfacées à une base de données\\VS\\LoanSimulatorV2\\LoanSimulatorV2.csproj",
+      "projectPath": "E:\\00Data\\Projects\\PublicGit\\LoanSimulator\\LoanSimulatorV2VScode\\LoanSimulatorV2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\00Data\\CBD-bdeb\\Cours\\2\\App Interfacées à une base de données\\VS\\LoanSimulatorV2\\obj\\",
+      "outputPath": "E:\\00Data\\Projects\\PublicGit\\LoanSimulator\\LoanSimulatorV2VScode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
