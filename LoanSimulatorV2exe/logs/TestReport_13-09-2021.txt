@@ -1,0 +1,25 @@
+
+=============================== FILE INFO ==============================
+
+File Name : TestReport_13-09-2021.txt
+Created By : Nick
+Created On : Monday, 13 September 2021 19:33:52
+
+============================== VIEW LOANS ==============================
+
+Currently 6 loan(s) in the Register
+
+@ 5% Interest: 
+
+ID: 0 - Principal: $10000 - Years: 20 - Month Pay: $66 - Debt Owed: $15840
+ID: 1 - Principal: $20000 - Years: 25 - Month Pay: $116.92 - Debt Owed: $35076
+ID: 2 - Principal: $1500 - Years: 3 - Month Pay: $44.96 - Debt Owed: $1618.56
+ID: 3 - Principal: $80000 - Years: 12 - Month Pay: $739.91 - Debt Owed: $106547.04
+ID: 4 - Principal: $500000 - Years: 35 - Month Pay: $2523.44 - Debt Owed: $1059844.8
+ID: 5 - Principal: $60600 - Years: 12 - Month Pay: $560.48 - Debt Owed: $80709.12
+
+Availale Capital: $672100
+Sum of Montly Payments: $4051.71
+Years until Completely Debt Free: 35
+Total Debt Owed: $1299635.52
+

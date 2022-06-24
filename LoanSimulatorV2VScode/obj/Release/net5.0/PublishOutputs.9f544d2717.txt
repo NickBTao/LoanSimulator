@@ -1,0 +1,5 @@
+E:\00Data\Projects\LoanSimulatorV2\LoanSimulatorV2.exe
+E:\00Data\Projects\LoanSimulatorV2\LoanSimulatorV2.dll
+E:\00Data\Projects\LoanSimulatorV2\LoanSimulatorV2.deps.json
+E:\00Data\Projects\LoanSimulatorV2\LoanSimulatorV2.runtimeconfig.json
+E:\00Data\Projects\LoanSimulatorV2\LoanSimulatorV2.pdb

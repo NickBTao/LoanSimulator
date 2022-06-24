@@ -1,0 +1,21 @@
+
+=============================== FILE INFO ==============================
+
+File Name : test01_24-06-2022.txt
+Created By : nick
+Created On : vendredi, 24 juin 2022 14:51:03
+
+============================== VIEW LOANS ==============================
+
+Currently 2 loan(s) in the Register
+
+@ 5% Interest: 
+
+ID: 0 - Principal: $5000 - Years: 12 - Month Pay: $46,24 - Debt Owed: $6658,56
+ID: 1 - Principal: $70000 - Years: 5 - Month Pay: $1320,99 - Debt Owed: $79259,4
+
+Availale Capital: $75000
+Sum of Montly Payments: $1367,23
+Years until Completely Debt Free: 12
+Total Debt Owed: $85917,96
+

@@ -1,0 +1,16 @@
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.exe
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.deps.json
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.runtimeconfig.json
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.runtimeconfig.dev.json
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.dll
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\ref\LoanSimulatorV2.dll
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\bin\Debug\net5.0\LoanSimulatorV2.pdb
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.csproj.AssemblyReference.cache
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.AssemblyInfoInputs.cache
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.AssemblyInfo.cs
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.csproj.CoreCompileInputs.cache
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.dll
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\ref\LoanSimulatorV2.dll
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.pdb
+E:\CBD-bdeb\Cours\2\App Interfacées à une base de données\VS\LoanSimulatorV2\obj\Debug\net5.0\LoanSimulatorV2.genruntimeconfig.cache
